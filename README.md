@@ -1,13 +1,7 @@
-# Angular Fullcalendar Demo
+# Project Output Screenshot
+![webp net-gifmaker 1](https://raw.githubusercontent.com/SunilSigar/Calender-Events/master/Screenshots/gif.gif)
 
-
-
-This project use ng-fullcalendar [NPM](https://www.npmjs.com/package/ng-fullcalendar)
-```
-@angular 6.0.9
-@angular/cli 6.0.8
-```
-
+# Angular Project
 
 ## Development server
 
